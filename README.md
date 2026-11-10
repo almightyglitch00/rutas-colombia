@@ -4,8 +4,8 @@
 Desarrollar un sistema en C++ para modelar y analizar rutas y conexiones entre ciudades de Colombia, utilizando estructuras de datos y algoritmos de grafos (vértices como ciudades, aristas como carreteras). Este proyecto forma parte del aprendizaje basado en problemas en la asignatura de Estructura de Datos.
 
 ## Integrantes
-- Steven Monsalve
-- Santiago Ramirez
+- Miguel Restrepo
+- Andrés Cubides
 
 ## Lenguaje
 C++
