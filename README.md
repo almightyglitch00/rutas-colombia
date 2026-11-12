@@ -31,11 +31,6 @@ make run
 - Gestión completa de ciudades, conexiones, pasajeros y cola
 - Manejo de errores: duplicados, distancias negativas, cola vacía, entradas inválidas
 
-## Uso de IA
-
-Se consultó asistencia de IA (Grok) para estructurar el código base y las estructuras propias.  
-El código fue revisado y adaptado manualmente.
-
 ## Pendientes
 
 - Pila de historial
